@@ -3,7 +3,7 @@
 I am a fullstack developer with a passion for learning new technologies and building ambitious & unique projects. Please learn more about me, my skills, and projects by reading below!
 
 
-####✨  About Oliver
+#### ✨  About Oliver
 
 ------------
 
