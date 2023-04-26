@@ -3,11 +3,11 @@
 I am a fullstack developer with a passion for learning new technologies and building ambitious & unique projects. Please learn more about me, my skills, and projects by reading below!
 
 
-#### ✨  About Oliver
+#### ✨  About Me
 
 ------------
 
-He love to SOLVE problems. He is a passionate full stack web developer. He can develop complex full stack web application like social media application, blogging website etc.
+I love to SOLVE problems. I am a passionate full stack web developer. I can develop complex full stack web application like social media application, blogging website etc.
 
 Specialties about him:
 
@@ -26,11 +26,11 @@ Software Design patterns.
 Developer tools, concepts and many more.
 Skills: REACT / JS / HTML / CSS / NODE / GraphqL
 
-- 🌱 He's currently learning the introvert entrepreneur amplify your strengths and create success on your own terms
-- 👯 He is looking to collaborate on web applications, decentralized applications, mainly open source projects.
-- 💬 Ask him about Full Stack Web Development
-- 📫 How to reach him: You can email me or even dm me on social media
-- ⚡ Fun fact: He will tell you when he will get to know
+- 🌱 I'm currently learning the introvert entrepreneur amplify your strengths and create success on your own terms
+- 👯 I'm looking to collaborate on web applications, decentralized applications, mainly open source projects.
+- 💬 Ask me about Full Stack Web Development
+- 📫 How to reach me: You can email me or even dm me on social media
+- ⚡ Fun fact: I will tell you when I will get to know
 
 
 <!--
