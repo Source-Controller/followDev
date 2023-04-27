@@ -19,12 +19,10 @@ Specialties about him:
 - Share knowledge.
 - Wants to have quality connection.
 
-
 Full stack web development.
 Data structures and Algorithms.
 Software Design patterns.
 Developer tools, concepts and many more.
-Skills: REACT / JS / HTML / CSS / NODE / GraphqL
 
 - 🌱 I'm currently learning the introvert entrepreneur amplify your strengths and create success on your own terms
 - 👯 I'm looking to collaborate on web applications, decentralized applications, mainly open source projects.
