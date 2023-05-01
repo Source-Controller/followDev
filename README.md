@@ -9,7 +9,7 @@ I am a fullstack developer with a passion for learning new technologies and buil
 
 I love to SOLVE problems. I am a passionate full stack web developer. I can develop complex full stack web application like social media application, blogging website etc.
 
-Specialties about him:
+Specialties About Me:
 
 - Open to learn.
 - Enjoy Solving problems.
