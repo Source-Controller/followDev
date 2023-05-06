@@ -30,6 +30,18 @@ Developer tools, concepts and many more.
 - 📫 How to reach me: You can email me or even dm me on social media
 - ⚡ Fun fact: I will tell you when I will get to know
 
+My Skills:
+ - HTML/CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, TypeScript, PHP, Python, Ruby, Solidity
+ - React(Redux, Mobx, Context) with MUI, Next.js, Blitz.js, Gatsby
+ - Vue(Vuex), Quasar, Vuetify, Nuxt.js
+ - Angular, RxJs, Laravel
+ - GraphQL, REST API
+ - Node.js, Express.js, Nest.js
+ - Laravel, Django(DRF), Ruby on Rails
+ - MySQL, PostgreSQL, SQLite, SQL Server, MongoDB
+ - Nginx, Redis, Memcache
+ - Medusa.js, ASP.NET, .NET
+
 
 <!--
 **followDev/followDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
