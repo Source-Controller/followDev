@@ -30,17 +30,30 @@ Developer tools, concepts and many more.
 - 📫 How to reach me: You can email me or even dm me on social media
 - ⚡ Fun fact: I will tell you when I will get to know
 
-My Skills:
- - HTML/CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, TypeScript, PHP, Python, Ruby, Solidity
- - React(Redux, Mobx, Context) with MUI, Next.js, Blitz.js, Gatsby
- - Vue(Vuex), Quasar, Vuetify, Nuxt.js
- - Angular, RxJs, Laravel
- - GraphQL, REST API
- - Node.js, Express.js, Nest.js
- - Laravel, Django(DRF), Ruby on Rails
- - MySQL, PostgreSQL, SQLite, SQL Server, MongoDB
- - Nginx, Redis, Memcache
- - Medusa.js, ASP.NET, .NET
+## My GitHub Stats 📊
+<p align="center">
+	<a href="https://github.com/followDev">
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=followDev&title=MultiLanguage,Commits,Stars,Followers,Organizations,Repositories" />
+	</a>
+</p>
+<p align="center">
+	<a href="https://github.com/followDev">
+		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=followDev&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
+	</a>
+	<a href="https://github.com/followDev">
+		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=followDev&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dracula" alt="followDev's Github Stats" />
+	</a>
+</p>
+<div align="center" style="font-size: 25px;font-weight: 900;">
+	<p style="font-size: 25px;font-weight: 900;">- My Contributions -</p>
+  <a href="https://github.com/starlitnightsky">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=followDev&theme=dracula" />
+  </a>
+</div>
+
+<p align="center">
+	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/followDev/count.svg" alt="followDev's Github visitor Counts" />
+</p>
 
 
 <!--
