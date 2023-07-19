@@ -46,7 +46,7 @@ Developer tools, concepts and many more.
 </p>
 <div align="center" style="font-size: 25px;font-weight: 900;">
 	<p style="font-size: 25px;font-weight: 900;">- My Contributions -</p>
-  <a href="https://github.com/starlitnightsky">
+  <a href="https://github.com/followDev">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=followDev&theme=dracula" />
   </a>
 </div>
