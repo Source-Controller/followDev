@@ -29,7 +29,7 @@ Developer tools, concepts and many more.
 - 💬 Ask me about Full Stack Web Development
 - 📫 How to reach me: You can email me or even dm me on social media
 - ⚡ Fun fact: I will tell you when I will get to know
-
+<!--
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/followDev">
@@ -50,7 +50,7 @@ Developer tools, concepts and many more.
     <img src="https://github-readme-streak-stats.herokuapp.com?user=followDev&theme=dracula" />
   </a>
 </div>
-
+-->
 <p align="center">
 	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/followDev/count.svg" alt="followDev's Github visitor Counts" />
 </p>
