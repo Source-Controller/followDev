@@ -50,10 +50,10 @@ Developer tools, concepts and many more.
     <img src="https://github-readme-streak-stats.herokuapp.com?user=followDev&theme=dracula" />
   </a>
 </div>
--->
 <p align="center">
 	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/followDev/count.svg" alt="followDev's Github visitor Counts" />
 </p>
+-->
 
 
 <!--
